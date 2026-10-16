@@ -1,0 +1,7 @@
+streamlit
+langchain==0.3.*
+langchain-community==0.3.*
+langchain-ollama<1.0
+chromadb
+pypdf
+rank_bm25
